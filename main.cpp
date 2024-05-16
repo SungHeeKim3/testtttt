@@ -1,8 +1,8 @@
-#include <iostream>
-using namespace std;
++ACM-include +ADw-iostream+AD4-
+using namespace std+ADs-
 
 int main()
-{
-    cout << " WTF" << endl;
-    cout << "asdfasdf" << endl;
-}
++AHs-
+    cout +ADwAPA- +ACI- WTF+ACI- +ADwAPA- endl+ADs-
+    cout +ADwAPA- +ACI-asdfasdf+ACI- +ADwAPA- endl+ADs- //+u1DFfA-
++AH0-
